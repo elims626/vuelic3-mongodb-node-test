@@ -1,4 +1,4 @@
-# test-mongo
+# 一个学习的小demo,暂时只有登录注册功能
 ## 该项目基于 Mongodb + Express + nodejs + vue-Cli3 + ElementUI + axios
 # Express 一个保持最小规模的灵活的 Node.js Web 应用程序开发框架
 
