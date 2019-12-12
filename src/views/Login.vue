@@ -28,12 +28,12 @@
           placeholder="请输入密码"
         />
       </el-form-item>
-      <div class="fr">
+      <el-form-item>
         没有账号，去
         <router-link to="/register">
           注册
         </router-link>
-      </div>
+      </el-form-item>
       <el-form-item>
         <el-button>
           取消
